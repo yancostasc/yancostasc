@@ -1,4 +1,4 @@
-<h1 align="center">Hey There, i'm Yan</h1>
+<h1 align="center">Hey There, i'm Yan! 👻💻</h1>
 <h3 align="center">Frontend developer working to Projuris</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yancostasc&show_icons=true&locale=en&layout=compact" alt="yancostasc" /></p>
