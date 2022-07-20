@@ -1,11 +1,10 @@
 <h1 align="center">Hey There, i'm Yan</h1>
 <h3 align="center">Frontend developer working to Projuris</h3>
+<br>
 
 - 🔭 I’m currently working on this personal project: [Projeto Angular](https://github.com/yancostasc/ProjetoAngular)
 
 - 🌱 I’m currently learning **Angular, Javascript, Typescript, Jest and SCSS**
-
-- 📫 Contact me: **yan.kostasc@gmail.com**
 
 - ⚡ Fun fact: **I have a cat called Yakult (and as he, i am also lactose intolerant).**
 
