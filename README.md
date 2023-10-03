@@ -5,7 +5,7 @@
 
 <br>
 
-- ☕ I’m currently working on this personal project: [Coffee Shop](https://github.com/yancostasc/coffee-shop)
+- ☕ I’m currently working on these personal projects: [Coffee Shop](https://github.com/yancostasc/coffee-shop) and [Starwars Dashboard](https://github.com/yancostasc/dashboard-react)
 
 - 🌱 I’m currently learning Angular, Javascript, Typescript, Jest and SCSS
 
