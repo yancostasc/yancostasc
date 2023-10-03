@@ -7,7 +7,7 @@
 
 - ☕ I’m currently working on these personal projects: [Coffee Shop](https://github.com/yancostasc/coffee-shop) and [Starwars Dashboard](https://github.com/yancostasc/dashboard-react)
 
-- 🌱 I’m currently learning Angular, Javascript, Typescript, Jest and SCSS
+- 🌱 I’m currently learning Angular, React, Javascript, Typescript, Jest and SCSS
 
 - ⚡ Fun fact: I have a cat called Yakult (and as he, i am also lactose intolerant).
 
